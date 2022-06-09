@@ -9,16 +9,37 @@
 - 📬 Reach me through Twitter
 - ⚡ I love to connect and Chat with People 🙌
 
+<br>
+<h3>▶Languages</h3>
+<img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 
+<br>
+<br>
+<br>
 
+<h3>▶Tools</h3>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 
-<h3>▶Stats:</h3>
+<br>
+<br>
+<br>
+<h3>▶Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryamanShah1&theme=apprentice)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryamanShah1&layout=compact&theme=apprentice)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaryamanShah1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!---
 AaryamanShah1/AaryamanShah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
