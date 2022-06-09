@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building my Github Profile 😁
 - 🌱 I’m currently learning Python.
 - 🧗 I try my best at everything😄                                                 
-- 🥅 2022 Goals: Contribute to Open Source projects and Learn Python, React and Angular.
+- 🥅 2022 Goals: Contribute to Open Source projects and Learn Python.
 - 💬 Ask me anything, I am happy to help 😄
 - 📬 Reach me through Twitter
 - ⚡ I love to connect and Chat with People 🙌
