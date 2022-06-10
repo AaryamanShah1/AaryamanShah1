@@ -10,6 +10,13 @@
 - ⚡ I love to connect and Chat with People 🙌
 
 <br>
+<br> 
+
+<h3>Connect With Me:</h3>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/AaryamanShah_1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AaryamanShah_1)
+
+<br>
 <h3>▶Languages</h3>
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
