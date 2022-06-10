@@ -38,13 +38,14 @@
 <br>
 <br>
 <br>
+
 <h3>▶Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryamanShah1&theme=apprentice)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryamanShah1&layout=compact&theme=apprentice)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryamanShah1&layout=compact&theme=apprentice)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaryamanShah1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Aaryaman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaryamanShah1&theme=github)
 
 
 <!---
