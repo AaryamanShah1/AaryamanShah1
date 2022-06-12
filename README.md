@@ -10,7 +10,6 @@
 - ⚡ I love to connect and Chat with People 🙌
 
 <br>
-<br> 
 
 <h3>Connect With Me:</h3>
 
