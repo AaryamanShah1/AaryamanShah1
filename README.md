@@ -42,8 +42,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryamanShah1&theme=apprentice)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryamanShah1&layout=compact&theme=apprentice)
-
 ![Aaryaman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaryamanShah1&theme=github)
 
 
