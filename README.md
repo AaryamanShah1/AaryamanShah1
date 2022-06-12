@@ -44,6 +44,16 @@
 
 ![Aaryaman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaryamanShah1&theme=github)
 
+<br>
+<br>
+<br>
+
+<h3>FunZone:</h3>
+
+**Thanks for reading till the end,😂 Here is a random joke that'll make you laugh!**
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!---
 AaryamanShah1/AaryamanShah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
