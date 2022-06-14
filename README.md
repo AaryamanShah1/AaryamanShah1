@@ -48,7 +48,7 @@
 
 <h3>FunZone:</h3>
 
-**Thanks for reading till the end,😂 Here is a random joke that'll make you laugh!**
+**Thanks for reading till the end,Here is a random joke that'll make you laugh😂!**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
