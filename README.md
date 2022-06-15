@@ -45,6 +45,7 @@
 ![Aaryaman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaryamanShah1&theme=github)
 
 <br>
+<br>
 
 <h3>FunZone:</h3>
 
